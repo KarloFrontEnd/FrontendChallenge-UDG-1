@@ -25,4 +25,4 @@ The following components must be installed locally:
 
 * matplotlib
 
-The PieChart.py python program can be run in any text editor I used VS Code
+PieChart = % python3.9 PieChart.py
