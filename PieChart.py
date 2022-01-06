@@ -8,6 +8,6 @@ labels = ['China', 'India', 'United States', 'Indonesia', 'Pakistan', 'Brazil']
 
 plt.pie(slices, labels=labels, shadow=True, autopct='%1.1f%%', wedgeprops={'edgecolor': 'black'})
 
-plt.title("Top 5 Countries Population")
+plt.title("The 5 Biggest Countries by Population Size")
 plt.tight_layout()
 plt.show()
