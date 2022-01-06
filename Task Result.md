@@ -22,6 +22,7 @@ matplotlib - For percentage representation of data records as a pie and bar char
 
 ## Installation / Run
 The following components must be installed locally:
-*matplotlib
+
+* matplotlib
 
 To run the project locally, enter the following in the command line / bash
