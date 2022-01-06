@@ -15,7 +15,9 @@ I had issues in the beginning because I didn't know about differentiating the va
 
 ## Used 3rd Party Libraries
 I used the following 3rd party libraries in my project:
+
 EditCSV - For a tabular representation of CSV Files in VS Code
+
 matplotlib - For percentage representation of data records as a pie and bar chart
 
 ## Installation / Run
