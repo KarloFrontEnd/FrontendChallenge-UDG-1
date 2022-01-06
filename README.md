@@ -1,6 +1,6 @@
 # FrontendChallenge-UDG-1
 
-This is my attempt at the given task, I will keep working on it as I still see many ways to improve it
+This is my attempt at the CSV File challenge, I will keep working on it as I still see many ways to improve on the existing data and expand into more complex CSV Files.
 
 My goal was to understand the UDG Challenge since all the technical terms were new to me and that made them quite intimidating. I learned a lot through this experience and I had a lot of fun, thanks to Mr. Breit
 
