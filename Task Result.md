@@ -25,4 +25,4 @@ The following components must be installed locally:
 
 * matplotlib
 
-To run the project locally, enter the following in the command line / bash
+The PieChart.py python program can be run in any text editor I used VS Code
